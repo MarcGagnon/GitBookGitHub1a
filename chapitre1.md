@@ -6,3 +6,5 @@ Un ajout au chapitre 1 dans **GitHub**, ainsi qu'un changement du nom de fichier
 
 J'ai seulement mis le mot **GitHub **en gras dans le paragraphe précédent, et bien sûr, ajouté celui-ci.
 
+[Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
+
