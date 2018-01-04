@@ -4,3 +4,7 @@ Ce chapitre n'est pas présent dans l'onglet **TOC**. J'ai seulement créer le f
 
 Après avoir ajouté un article avec **Add an article**, puis modifié le **pointer**, le chapitre devient disponible dans **SUMMARY.md**.
 
+[Chapitre 1](/chapitre1.md)
+
+
+
