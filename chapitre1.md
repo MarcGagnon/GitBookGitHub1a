@@ -21,6 +21,7 @@ Ajout distant, pour créer un conflit \(Oups!\).
 Ajout sur GitHub pour faire un autre pull.
 
 Ajout sur GitBook en vue du même pull. Sera-t-il « **Verified **» sur GitHub?
+Ajout local... une ligne en dessous.
 
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
