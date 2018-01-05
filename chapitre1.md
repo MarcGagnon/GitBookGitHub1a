@@ -14,5 +14,7 @@ Ajout dans GitHub pour tester « git diff origin/master ».
 
 Un nouvel ajout sur GitHub, en plus de corriger GitHub en gras à la ligne 7 (test pull local).
 
+Ajout distant, pour créer un conflit (Oups!).
+
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
