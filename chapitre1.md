@@ -10,14 +10,17 @@ Texte ajouté localement avec nano, et poussé avec git.
 
 Un deuxième ajout local avec nano pour tester « git diff origin/master ».
 
-Ajout dans GitHub pour tester « git diff origin/master ». 
+Ajout dans GitHub pour tester « git diff origin/master ».
 
-Un nouvel ajout sur GitHub, en plus de corriger GitHub en gras à la ligne 7 (test pull local).
+Un nouvel ajout sur GitHub, en plus de corriger GitHub en gras à la ligne 7 \(test pull local\).
 
-Ajout local, pour créer un conflit (yikes!).
+Ajout local, pour créer un conflit \(yikes!\).
 
-Ajout distant, pour créer un conflit (Oups!).
+Ajout distant, pour créer un conflit \(Oups!\).
 
 Ajout sur GitHub pour faire un autre pull.
 
+Ajout sur GitBook en vue du même pull. Sera-t-il « **Verified **» sur GitHub?
+
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
+
