@@ -26,5 +26,7 @@ GitHub : Deux lignes en dessous.
 
 Local : encore un peu de texte pour faire un push.
 
+GitHub : ajout d'une ligne.
+
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
