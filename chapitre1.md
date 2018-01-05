@@ -4,13 +4,15 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 Un ajout au chapitre 1 dans **GitHub**, ainsi qu'un changement du nom de fichier de **chapter1.md** à **chapitre1.md**.
 
-J'ai seulement mis le mot **GitHub **en gras dans le paragraphe précédent, et bien sûr, ajouté celui-ci.
+J'ai seulement mis le mot **GitHub** en gras dans le paragraphe précédent, et bien sûr, ajouté celui-ci.
 
 Texte ajouté localement avec nano, et poussé avec git.
 
 Un deuxième ajout local avec nano pour tester « git diff origin/master ».
 
 Ajout dans GitHub pour tester « git diff origin/master ». 
+
+Un nouvel ajout sur GitHub, en plus de corriger GitHub en gras à la ligne 7 (test pull local).
 
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
