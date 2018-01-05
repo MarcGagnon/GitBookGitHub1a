@@ -24,6 +24,7 @@ Ajout sur GitBook en vue du même pull. Sera-t-il « **Verified** » sur GitHub?
 Ajout local... une ligne en dessous.
 GitHub : Deux lignes en dessous.
 
+Local : encore un peu de texte pour faire un push.
 
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
