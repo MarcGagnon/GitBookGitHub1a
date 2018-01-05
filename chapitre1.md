@@ -10,5 +10,7 @@ Texte ajouté localement avec nano, et poussé avec git.
 
 Un deuxième ajout local avec nano pour tester « git diff origin/master ».
 
+Ajout dans GitHub pour tester « git diff origin/master ». 
+
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
