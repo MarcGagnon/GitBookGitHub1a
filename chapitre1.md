@@ -20,13 +20,15 @@ Ajout distant, pour créer un conflit \(Oups!\).
 
 Ajout sur GitHub pour faire un autre pull.
 
-Ajout sur GitBook en vue du même pull. Sera-t-il « **Verified** » sur GitHub?
-Ajout local... une ligne en dessous.
+Ajout sur GitBook en vue du même pull. Sera-t-il « **Verified** » sur GitHub?  
+Ajout local... une ligne en dessous.  
 GitHub : Deux lignes en dessous.
 
 Local : encore un peu de texte pour faire un push.
 
 GitHub : ajout d'une ligne.
+
+GitBook : ajout d'une ligne.
 
 [Introduction](/README.md) \| [Chapitre 2](/chapitre2.md)
 
